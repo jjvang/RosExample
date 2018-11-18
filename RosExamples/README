@@ -1,3 +1,19 @@
-gedit README 
+$ git config credential.helper store
+$ git push https://github.com/jjvang/RosExample/tree/master/RosExamples.git
+Username: <type your username>
+Password: <type your password>
 
-This makes a readme in a file using the commmand prompt 
+
+GO to the directory 
+
+git init
+
+git add.(filename)
+
+git commit -m "first commit"
+
+(not necessary) 
+git remote add origin
+git remove -v
+
+git pupsh origin master
